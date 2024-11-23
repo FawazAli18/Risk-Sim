@@ -12,7 +12,9 @@ Simulates portfolio growth over a specified timeframe.
 Models correlated daily returns using the Cholesky decomposition.
 
 Risk Analysis:
+
 Computes key risk metrics:
+
 VaR (Value at Risk): Estimates potential loss at a specific confidence level.
 
 CVaR (Conditional Value at Risk): Calculates average loss exceeding VaR.
